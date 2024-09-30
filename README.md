@@ -16,7 +16,27 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 
 
-- **Espace Interactif :** L'installation se déroule dans une pièce vide, blanche, dépouillée de couleur, dotée uniquement d'un synthétiseur et d'un bol d'eau. Cette neutralité renforce l'idée que l'humain est le seul à pouvoir dégager et propager des émotions dans cet espace.
+- **Espace Interactif :
+```mermaid
+graph TD
+    A[Scénario Interactif] --> B[Introduction]
+    B --> C[Accueil dans un espace immersif]
+    C --> D[Projections et sons explicatifs]
+    
+    A --> E[Exploration]
+    E --> F[Interaction avec la table de contrôle]
+    F --> G[Ajustement des fréquences]
+    G --> H[Observation des effets sur l'eau]
+    G --> I[Impact sur l'état émotionnel]
+    
+    A --> J[Réflexion]
+    J --> K[Espace de contemplation]
+    K --> L[Consignation des émotions]
+    K --> M[Éléments visuels et sonores pour l'introspection]
+...
+
+
+- ** L'installation se déroule dans une pièce vide, blanche, dépouillée de couleur, dotée uniquement d'un synthétiseur et d'un bol d'eau. Cette neutralité renforce l'idée que l'humain est le seul à pouvoir dégager et propager des émotions dans cet espace.
 - **Projections :** Des images de robots et d'intelligences artificielles créant des robots sont projetées sur les murs. Lorsque le robot questionne les émotions humaines, les images prennent vie en couleur, contrastant avec la blancheur du reste de la pièce.
 - **Intervention du Robot :** À chaque changement de fréquence, le robot exprime sa tristesse de ne pas pouvoir ressentir les émotions humaines.
 - **Réactions Visuelles :** Les écrans affichent des représentations graphiques des fréquences en temps réel.
