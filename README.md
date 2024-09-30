@@ -20,25 +20,6 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 ```mermaid
 graph TD
-    A[Scénario Interactif] --> B[Introduction]
-    B --> C[Accueil dans un espace immersif]
-    C --> D[Projections et sons explicatifs]
-    
-    A --> E[Exploration]
-    E --> F[Interaction avec la table de contrôle]
-    F --> G[Ajustement des fréquences]
-    G --> H[Observation des effets sur l'eau]
-    G --> I[Impact sur l'état émotionnel]
-    
-    A --> J[Réflexion]
-    J --> K[Espace de contemplation]
-    K --> L[Consignation des émotions]
-    K --> M[Éléments visuels et sonores pour l'introspection]
-
-```
-
-```mermaid
-graph TD
     A[Entrée dans la Salle] --> B[Découverte de l'Espace Vide]
     B --> C[Images de Robots et Technologie Projetées]
     C --> D[Robot Explique les Effets Scientifiques des Fréquences sur l'Eau]
@@ -58,6 +39,7 @@ graph TD
     M --> N[Robot se Déconnecte]
     N --> O[Suicide Symbolique du Robot]
     O --> P[Fin de l'Interaction]
+
 
 ```
 
