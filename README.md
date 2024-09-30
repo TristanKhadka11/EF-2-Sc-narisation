@@ -21,24 +21,25 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 ```mermaid
 graph TD
     A[Entrée dans la Salle] --> B[Découverte de l'Espace Vide]
-    B --> C[Images de Robots et Technologie Projetées]
-    C --> D[Robot Explique les Effets Scientifiques des Fréquences sur l'Eau]
+    B --> C[Images de Robots et Technologie]
+    C --> D[Robot Explique les Effets des Fréquences sur l'Eau]
     D --> E[Interaction avec le Synthétiseur]
     E --> F[Ajustement des Fréquences]
     F --> G[Observation des Effets Visuels dans l'Eau]
     
-    G --> H[Robot Demande : "Ressentez-vous des Émotions avec ces Fréquences ?"]
-    H --> I[Réflexion de l'Utilisateur sur ses Émotions]
+    G --> H[Robot Demande si l'Utilisateur Ressent des Émotions]
+    H --> I[Réflexion de l'Utilisateur]
     
     I --> J[Robot S'interroge sur son Incapacité à Ressentir]
     J --> K[Robot Exprime sa Tristesse]
     
-    K --> L[Images Émotionnelles et Humanitaires en Couleur]
-    L --> M[Contraste entre les Émotions Humaines et le Robot]
+    K --> L[Images Humanitaires en Couleur]
+    L --> M[Contraste entre Émotions Humaines et Robot]
     
     M --> N[Robot se Déconnecte]
     N --> O[Suicide Symbolique du Robot]
     O --> P[Fin de l'Interaction]
+
 
 
 ```
