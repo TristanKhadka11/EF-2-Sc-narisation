@@ -49,7 +49,7 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 ### Palette de Couleurs
 
-![Palette](medias/palette.jpg)
+![Palette](medias/palette.png)
 
 
 ## Références Artistiques
