@@ -36,20 +36,20 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 ## Ambiance
 ### Moodboard
 - **Visuels :** Motifs fluides dans l'eau, ondes sonores, vidéo de sujet robotique/humanitaire et espace vide.
-![Description of Image](images/your_image_name.jpg)
-![Description of Image](images/your_image_name.jpg)
-![Description of Image](images/your_image_name.jpg)
-![Description of Image](images/your_image_name.jpg)
-![Description of Image](images/your_image_name.jpg)
+![Palette](medias/6.jpg)
+![Palette](medias/5.jpg)
+![Palette](medias/4.jpg)
+![Palette](medias/3.jpg)
+![Palette](medias/2.jpg)
+![Palette](medias/1.jpg)
 
 - **Son :** Échantillons de sons d’eau, mélodies ambiantes, voix de robot.
-- v![Description of Image](images/your_image_name.jpg)
-- ![Description of Image](images/your_image_name.jpg)
-- ![Description of Image](images/your_image_name.jpg)
+
+
 
 ### Palette de Couleurs
 
-![Description of Image](images/your_image_name.jpg)
+![Palette](medias/palette.jpg)
 
 
 ## Références Artistiques
