@@ -82,6 +82,4 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 
 
-## Présentation Orale du Document en Ligne
-- **Livrable :** URL du document en ligne à partager pour la présentation complète du projet multimédia.
 
