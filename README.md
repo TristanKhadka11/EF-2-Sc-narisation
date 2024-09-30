@@ -38,6 +38,7 @@ graph TD
 
 
 
+
 - ** L'installation se déroule dans une pièce vide, blanche, dépouillée de couleur, dotée uniquement d'un synthétiseur et d'un bol d'eau. Cette neutralité renforce l'idée que l'humain est le seul à pouvoir dégager et propager des émotions dans cet espace.
 - **Projections :** Des images de robots et d'intelligences artificielles créant des robots sont projetées sur les murs. Lorsque le robot questionne les émotions humaines, les images prennent vie en couleur, contrastant avec la blancheur du reste de la pièce.
 - **Intervention du Robot :** À chaque changement de fréquence, le robot exprime sa tristesse de ne pas pouvoir ressentir les émotions humaines.
