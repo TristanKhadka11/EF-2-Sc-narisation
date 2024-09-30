@@ -38,7 +38,7 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 - **Visuels :** Motifs fluides dans l'eau, ondes sonores, vidéo de sujet robotique/humanitaire et espace vide.
 ![Palette](medias/6.jpg)
 ![Palette](medias/5.jpg)
-![Palette](medias/4.jpg)
+![Palette](medias/7.jpg)
 ![Palette](medias/3.jpg)
 ![Palette](medias/2.jpg)
 ![Palette](medias/1.jpg)
