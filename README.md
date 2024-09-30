@@ -19,7 +19,6 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 - **Espace Interactif :
 ```mermaid
 graph TD
-    A[Entrée dans la Salle] --> B[Découverte de l'Espace Vide]
     B --> C[Images de Robots et Technologie Projetées]
     C --> D[Robot Explique les Effets Scientifiques des Fréquences sur l'Eau]
     D --> E[Interaction avec le Synthétiseur]
