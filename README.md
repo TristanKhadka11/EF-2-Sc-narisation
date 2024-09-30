@@ -35,12 +35,22 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 ## Ambiance
 ### Moodboard
-- **Visuels :** Motifs fluides dans l'eau, ondes sonores, éléments naturels.
-- **Son :** Échantillons de sons d’eau, mélodies ambiantes.
+- **Visuels :** Motifs fluides dans l'eau, ondes sonores, vidéo de sujet robotique/humanitaire et espace vide.
+![Description of Image](images/your_image_name.jpg)
+![Description of Image](images/your_image_name.jpg)
+![Description of Image](images/your_image_name.jpg)
+![Description of Image](images/your_image_name.jpg)
+![Description of Image](images/your_image_name.jpg)
+
+- **Son :** Échantillons de sons d’eau, mélodies ambiantes, voix de robot.
+- v![Description of Image](images/your_image_name.jpg)
+- ![Description of Image](images/your_image_name.jpg)
+- ![Description of Image](images/your_image_name.jpg)
 
 ### Palette de Couleurs
-- **Principales :** Blancs éclatants dans la pièce pour évoquer le vide.
-- **Accents :** Lumières changeantes et couleurs fluides qui émergent lors des réflexions du robot, ajoutant de l'émotion à l'espace.
+
+![Description of Image](images/your_image_name.jpg)
+
 
 ## Références Artistiques
 - **Oeuvres :**
@@ -49,21 +59,27 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
   - [James Turrell](https://youtu.be/udlzm3Ea3RE)
 - **Films :**
   - [Koyaanisqatsi](https://www.youtube.com/watch?v=BRItSHelLr4)
+- **Jeu :**
+- - [Portal;](https://youtu.be/KkNYZ430qGw)
 
 ## Technologies
 ### Support Média
-- **Audio :** Haut-parleurs à haute fidélité.
+- **Audio :** Panneau de contrôle (synthétiseur) contrôlant les fréquences, 1 haut-parleur à haute fidélité et 4 haut-parleurs pour projeter la voix robotique dans les coins de la pièce.
 - **Vidéo :** Projections interactives sur les murs.
 - **Lumières :** LEDs programmables.
 
+
 ### Matériel
-- **Technologies interactives :** Capteurs de fréquence, caméras, contrôleurs tactiles.
-- **Plateformes et outils :** Systèmes de projection.
+- **Technologies interactives :** Contrôleurs tactiles ou synthétiseur, 5 haut-parleurs et 3 projecteurs Raspberry Pi pour contrôler tout le système, câbles HDMI et XLR, lumière de type LED.
+- **Plateformes et outils :** Eau sur plateforme et planche de bois pour insérer les contrôleurs et placer le haut-parleur contenant l'eau, ainsi que pour les 4 murs.
 
 ### Logiciels
-- **Projection :** Logiciels pour des visuels dynamiques.
-- **Audio :** Logiciels pour le traitement audio en temps réel.
-- **Réseautage et Communication :** Protocoles comme OSC ou MIDI.
+- **Projection :** TouchDesigner.
+- **Audio :** Ableton Live relié à Max.
+- **3D du robot :** Blender.
+-  - **Voix du robot :** Ableton live.
+- **Réseautage et Communication :** OSC ou MIDI.
+
 
 
 ## Présentation Orale du Document en Ligne
