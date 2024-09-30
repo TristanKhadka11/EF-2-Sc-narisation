@@ -33,7 +33,9 @@ graph TD
     J --> K[Espace de contemplation]
     K --> L[Consignation des émotions]
     K --> M[Éléments visuels et sonores pour l'introspection]
-...
+
+```
+
 
 
 - ** L'installation se déroule dans une pièce vide, blanche, dépouillée de couleur, dotée uniquement d'un synthétiseur et d'un bol d'eau. Cette neutralité renforce l'idée que l'humain est le seul à pouvoir dégager et propager des émotions dans cet espace.
