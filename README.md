@@ -77,7 +77,7 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 - **Projection :** TouchDesigner.
 - **Audio :** Ableton Live relié à Max.
 - **3D du robot :** Blender.
--  - **Voix du robot :** Ableton live.
+- **Voix du robot :** Ableton live.
 - **Réseautage et Communication :** OSC ou MIDI.
 
 
