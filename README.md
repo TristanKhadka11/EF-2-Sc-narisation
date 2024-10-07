@@ -89,7 +89,7 @@ graph TD
 - **Oeuvres :**
   - [Acoustic Levitation](https://www.ancient-origins.net/news-science-space-mysterious-phenomena/acoustic-levitation-floating-wave-sound-00684)
   - [Chladni Patterns](https://youtu.be/eskZ3OORfYM)
-  - [Chladni Patterns](https://youtu.be/It83KlZ61l0)
+  - [Chladni Patterns on water](https://youtu.be/It83KlZ61l0)
   - [James Turrell](https://youtu.be/udlzm3Ea3RE)
 - **Films :**
   - [Koyaanisqatsi](https://www.youtube.com/watch?v=BRItSHelLr4)
