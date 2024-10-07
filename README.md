@@ -20,8 +20,8 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 ```mermaid
 graph TD
-A[Mode veille (spotlight sur l'oscillateur et l'eau)] --> B[Entrée dans la Salle]
-    B --> C[Découverte de l'Espace Vide (Lumière et projecteurs allumés)]
+    A[Mode veille spotlight sur l'oscillateur et l'eau] --> B[Entrée dans la Salle]
+    B --> C[Découverte de l'Espace Vide Lumière et projecteurs allumés]
     C --> D[Images de Robots et Technologie]
     D --> E[Robot Explique les Effets des Fréquences sur l'Eau]
     E --> F[Interaction avec le Synthétiseur]
