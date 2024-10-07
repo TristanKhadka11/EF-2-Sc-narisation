@@ -20,25 +20,27 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 ```mermaid
 graph TD
-    A[Entrée dans la Salle] --> B[Découverte de l'Espace Vide]
-    B --> C[Images de Robots et Technologie]
-    C --> D[Robot Explique les Effets des Fréquences sur l'Eau]
-    D --> E[Interaction avec le Synthétiseur]
-    E --> F[Ajustement des Fréquences]
-    F --> G[Observation des Effets Visuels dans l'Eau]
+A[Mode veille (spotlight sur l'oscillateur et l'eau)] --> B[Entrée dans la Salle]
+    B --> C[Découverte de l'Espace Vide (Lumière et projecteurs allumés)]
+    C --> D[Images de Robots et Technologie]
+    D --> E[Robot Explique les Effets des Fréquences sur l'Eau]
+    E --> F[Interaction avec le Synthétiseur]
+    F --> G[Ajustement des Fréquences]
+    G --> H[Observation des Effets Visuels dans l'Eau]
     
-    G --> H[Robot Demande si l'Utilisateur Ressent des Émotions]
-    H --> I[Réflexion de l'Utilisateur]
+    H --> I[Robot Demande si l'Utilisateur Ressent des Émotions]
+    I --> J[Réflexion de l'Utilisateur]
     
-    I --> J[Robot S'interroge sur son Incapacité à Ressentir]
-    J --> K[Robot Exprime sa Tristesse]
+    J --> K[Robot S'interroge sur son Incapacité à Ressentir]
+    K --> L[Robot Exprime sa Tristesse]
     
-    K --> L[Images Humanitaires en Couleur]
-    L --> M[Contraste entre Émotions Humaines et Robot]
+    L --> M[Images Humanitaires en Couleur]
+    M --> N[Contraste entre Émotions Humaines et Robot]
     
-    M --> N[Robot se Déconnecte]
-    N --> O[Suicide Symbolique du Robot]
-    O --> P[Fin de l'Interaction]
+    N --> O[Robot se Déconnecte]
+    O --> P[Suicide Symbolique du Robot]
+    P --> Q[Fin de l'Interaction]
+    Q --> A
 
 
 
